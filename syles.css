@@ -1,0 +1,76 @@
+body{
+  margin:0;
+  /*background-image: url("https://p0.pikist.com/photos/779/160/night-evening-stars-hills-silhouettes-beautiful-sky-clouds-country.jpg"); */
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #256D85;
+  border-width: 10px;
+  width: 75%;
+  height: 0px;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top:100 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 3;
+}
+.Top-container{
+  background-color: #CEE5D0;
+  /*margin-left: 35%; */
+  position: relative;
+  padding-top: 130px;
+
+}
+
+.middle-container{
+background-color : #90B77D;
+text-align: auto;
+
+}
+.bottom-container
+{
+background-color: #C1D5A4;
+
+}
+.pro{
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+.bottom-cloud{
+position: absolute;
+left: 35%;
+}
+
+.top-cloud{
+position: absolute;
+right : 480px;
+top: 70px;
+}
+.first-img{
+  padding-top: 60px;
+  border-radius: 100%;
+  width: 15%;
+  height: 15%;
+  border-style: solid;
+}
+.skill-img{
+  border-radius: 100%;
+  width: 15%;
+  height: 15%;
+}
+.h2{
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
